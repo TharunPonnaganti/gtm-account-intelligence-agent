@@ -1,0 +1,5 @@
+# Pin these to the versions you actually use (pip freeze > requirements.txt).
+# Minimal starting set for a Claude-API + RAG agent:
+anthropic
+python-dotenv
+requests
